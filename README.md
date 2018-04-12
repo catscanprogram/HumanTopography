@@ -4,4 +4,4 @@ For this assignment I wanted to explore something more artistic than code heavy.
 
 Here is a smaller version of one of the prints:
 
-[https://github.com/catscanprogram/HumanTopography/blob/master/SmallPrint.jpg]
+![logo](https://github.com/catscanprogram/HumanTopography/blob/master/SmallPrint.jpg)
